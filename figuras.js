@@ -271,3 +271,5 @@ if (esPar(lista1.length)){
 
 
 
+// CALCULAR SALARIO DEL PAIS
+
